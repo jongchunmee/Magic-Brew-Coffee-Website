@@ -91,7 +91,13 @@ a {
 
 
 
-
 }
+
+footer {
+  background-color: rgba(217, 114, 35, 0.606);
+  border: 1px solid hsla(23, 94%, 47%, 0.553);
+  font-size: large;
+}
+
 
 </style>
